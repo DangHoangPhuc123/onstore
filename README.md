@@ -1,10 +1,10 @@
-#website: https://onstor459.000webhostapp.com/
+# website: https://onstor459.000webhostapp.com/
 
 # Admin Panel: /admin_area 
 
 ## Admin Login Details
 
-** Username: admin@mail.com**
+**Username: admin@mail.com**
 **Password: admin**
 
 ## User Login test Details
